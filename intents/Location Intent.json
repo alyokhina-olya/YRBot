@@ -1,0 +1,55 @@
+{
+  "id": "9195b451-4f8a-41c4-8bc3-048374c0014c",
+  "parentId": "69909531-8658-4cd1-bc25-35a34bd730e4",
+  "rootParentId": "ee94b60e-271d-4b85-9352-f238aa4f0c45",
+  "name": "Location Intent",
+  "auto": true,
+  "contexts": [
+    "BudgetIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Location-Intent",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "33627ec9-79a8-4fc6-b1c8-aa5a73ab699a",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "area",
+          "value": "$area",
+          "isList": true
+        },
+        {
+          "id": "293aff2e-6554-4ab1-9bb7-ee15ad64b66f",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "metro",
+          "value": "$metro",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "skksks"
+        },
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541702061,
+  "fallbackIntent": false,
+  "events": []
+}

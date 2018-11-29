@@ -1,0 +1,50 @@
+[
+  {
+    "id": "5038f006-f7bd-47b2-ab3c-20fd9ba29215",
+    "data": [
+      {
+        "text": "Хочу купить квартиру",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541695001
+  },
+  {
+    "id": "86a3740a-c791-4ccf-9269-d17d628b453e",
+    "data": [
+      {
+        "text": "Покупка квартиры",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541695001
+  },
+  {
+    "id": "e3dc659f-9025-4e3a-91a9-6b25a2ae1b81",
+    "data": [
+      {
+        "text": "приобрести жилье",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541695001
+  },
+  {
+    "id": "c9706751-ea51-4789-aec6-ec625c4ce8d7",
+    "data": [
+      {
+        "text": "приобрести квартиру",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541695001
+  }
+]

@@ -1,0 +1,69 @@
+{
+  "id": "69909531-8658-4cd1-bc25-35a34bd730e4",
+  "parentId": "a59efa0a-c799-49c4-98bb-534d7ccbd8e1",
+  "rootParentId": "ee94b60e-271d-4b85-9352-f238aa4f0c45",
+  "name": "Budget Intent",
+  "auto": true,
+  "contexts": [
+    "FirstPurchaseIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Budget-Intent",
+      "affectedContexts": [
+        {
+          "name": "BudgetIntent-followup",
+          "parameters": {},
+          "lifespan": 100
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a39956be-76e0-49fd-98ea-d66eac854254",
+          "required": false,
+          "dataType": "@sys.unit-currency",
+          "name": "maxCost",
+          "value": "$maxCost",
+          "isList": false
+        },
+        {
+          "id": "1db4c464-f2c5-42b9-b49f-9c372699a339",
+          "required": false,
+          "dataType": "@sys.unit-currency",
+          "name": "credit",
+          "value": "$credit",
+          "isList": false
+        },
+        {
+          "id": "2e0e3ca1-e288-4824-8348-2ae494ec5c9b",
+          "required": false,
+          "dataType": "@sys.unit-currency",
+          "name": "minCost",
+          "value": "$minCost",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Укажите район или метро"
+        },
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541697232,
+  "fallbackIntent": false,
+  "events": []
+}

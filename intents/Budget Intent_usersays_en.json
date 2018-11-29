@@ -1,0 +1,100 @@
+[
+  {
+    "id": "8819351a-ee72-4566-8af5-d8fa38a4849c",
+    "data": [
+      {
+        "text": "от ",
+        "userDefined": false
+      },
+      {
+        "text": "100 рублей",
+        "alias": "minCost",
+        "meta": "@sys.unit-currency",
+        "userDefined": true
+      },
+      {
+        "text": " до ",
+        "userDefined": false
+      },
+      {
+        "text": "1000 рублей",
+        "alias": "maxCost",
+        "meta": "@sys.unit-currency",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541696112
+  },
+  {
+    "id": "28f1fe9d-cdf4-49ea-840d-63b7ed13bfa1",
+    "data": [
+      {
+        "text": "у меня есть ",
+        "userDefined": false
+      },
+      {
+        "text": "1000 рублей",
+        "alias": "maxCost",
+        "meta": "@sys.unit-currency",
+        "userDefined": true
+      },
+      {
+        "text": " и еще могу взять кредит на ",
+        "userDefined": false
+      },
+      {
+        "text": "10000 рублей",
+        "alias": "credit",
+        "meta": "@sys.unit-currency",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1541696112
+  },
+  {
+    "id": "2cd0d37e-7aec-4a68-b5c4-0cbdcdb5fce6",
+    "data": [
+      {
+        "text": "цена не имеет значения",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541695953
+  },
+  {
+    "id": "508d4174-d9eb-499b-95b5-0a4439728071",
+    "data": [
+      {
+        "text": "стоимость не важна",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541695953
+  },
+  {
+    "id": "0c127fb8-20ed-43dd-a251-6271de76329e",
+    "data": [
+      {
+        "text": "у меня есть ",
+        "userDefined": false
+      },
+      {
+        "text": "1000 рублей",
+        "alias": "maxCost",
+        "meta": "@sys.unit-currency",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541696112
+  }
+]

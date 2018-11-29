@@ -1,0 +1,53 @@
+{
+  "id": "16c88828-7b9f-450e-8914-e0ce4ef22f2a",
+  "parentId": "ee94b60e-271d-4b85-9352-f238aa4f0c45",
+  "rootParentId": "ee94b60e-271d-4b85-9352-f238aa4f0c45",
+  "name": "Buy Apartment Intent",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Buy-Apartment-Intent",
+      "affectedContexts": [
+        {
+          "name": "BuyApartmentIntent-followup",
+          "parameters": {},
+          "lifespan": 100
+        }
+      ],
+      "parameters": [
+        {
+          "id": "dc538d57-0426-415f-beda-14ffe178fd19",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "typeDeal",
+          "value": "buyApartment",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Опишите, пожалуйста, причину"
+        },
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541697527,
+  "fallbackIntent": false,
+  "events": []
+}
