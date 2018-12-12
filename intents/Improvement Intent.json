@@ -1,0 +1,133 @@
+{
+  "id": "13e1a74e-5d22-4ad4-a290-c21f163cd440",
+  "name": "Improvement Intent",
+  "auto": true,
+  "contexts": [
+    "LocationIntent"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ImprovementIntent",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "LocationIntent",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "ImprovementIntent-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "091c4401-dd68-449c-929b-7bf8ae8eea36",
+          "required": false,
+          "dataType": "@lift",
+          "name": "lift",
+          "value": "$lift",
+          "isList": false
+        },
+        {
+          "id": "a44fc73b-a41d-4936-b74b-c1ee082bfab9",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "wantedFloor",
+          "value": "$wantedFloor",
+          "isList": true
+        },
+        {
+          "id": "38c19484-6661-4fa3-aa49-6fa443c87c2b",
+          "required": false,
+          "dataType": "@park",
+          "name": "park",
+          "value": "$park",
+          "isList": false
+        },
+        {
+          "id": "f8fffc2d-1ac4-4ac6-a634-7cdeb0bb5359",
+          "required": false,
+          "dataType": "@concierge",
+          "name": "concierge",
+          "value": "$concierge",
+          "isList": false
+        },
+        {
+          "id": "7f410f5d-b4b3-448e-911a-9a0cff648e19",
+          "required": false,
+          "dataType": "@cheaper",
+          "name": "cheaper",
+          "value": "$cheaper",
+          "isList": false
+        },
+        {
+          "id": "ad8bf1d6-4fd2-49c1-80b9-5fc780776a05",
+          "required": false,
+          "dataType": "@expensive",
+          "name": "expensive",
+          "value": "$expensive",
+          "isList": false
+        },
+        {
+          "id": "abd1ddca-7b09-49ab-9e18-6bc931490621",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "decreasedSize",
+          "value": "$decreasedSize",
+          "isList": false
+        },
+        {
+          "id": "9ac465e9-1f07-44d1-9063-6a312e26e2a9",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "increasedSize",
+          "value": "$increasedSize",
+          "isList": false
+        },
+        {
+          "id": "c8d71037-4574-42f5-a2e1-937643cd6d42",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "tmp",
+          "value": "$tmp",
+          "isList": true
+        },
+        {
+          "id": "39197b7d-a5c8-4e21-a266-bc57a5f4dce1",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "unwantedFloor",
+          "value": "$unwantedFloor",
+          "isList": true
+        },
+        {
+          "id": "cad862f2-93c9-41a8-82ea-063be9fb521c",
+          "dataType": "@negative",
+          "name": "negative",
+          "value": "$negative"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544628407,
+  "fallbackIntent": false,
+  "events": []
+}

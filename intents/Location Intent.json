@@ -1,45 +1,57 @@
 {
-  "id": "9195b451-4f8a-41c4-8bc3-048374c0014c",
-  "parentId": "69909531-8658-4cd1-bc25-35a34bd730e4",
-  "rootParentId": "ee94b60e-271d-4b85-9352-f238aa4f0c45",
+  "id": "439c4386-5c6a-445b-9bc3-36dc88060dc0",
   "name": "Location Intent",
   "auto": true,
   "contexts": [
-    "BudgetIntent-followup"
+    "BudgetIntent"
   ],
   "responses": [
     {
       "resetContexts": false,
       "action": "Location-Intent",
-      "affectedContexts": [],
+      "affectedContexts": [
+        {
+          "name": "LocationIntent",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "LocationIntent-followup",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
       "parameters": [
         {
-          "id": "33627ec9-79a8-4fc6-b1c8-aa5a73ab699a",
+          "id": "b836879e-f2d1-4d6e-a0cc-481633d4d093",
           "required": false,
-          "dataType": "@sys.any",
-          "name": "area",
-          "value": "$area",
+          "dataType": "@district",
+          "name": "district",
+          "value": "$district",
           "isList": true
         },
         {
-          "id": "293aff2e-6554-4ab1-9bb7-ee15ad64b66f",
+          "id": "2ae43293-98e6-44bb-a232-68b6b1b49584",
           "required": false,
-          "dataType": "@sys.any",
+          "dataType": "@metro",
           "name": "metro",
           "value": "$metro",
+          "isList": true
+        },
+        {
+          "id": "10e95202-472b-457d-a739-26b7e7c30073",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "tmp",
+          "value": "$tmp",
           "isList": true
         }
       ],
       "messages": [
         {
           "type": 0,
-          "lang": "en",
-          "speech": "skksks"
-        },
-        {
-          "type": 0,
           "lang": "ru",
-          "speech": []
+          "speech": "не удалось соединиться с сервером"
         }
       ],
       "defaultResponsePlatforms": {},
@@ -49,7 +61,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1541702061,
+  "lastUpdate": 1544627494,
   "fallbackIntent": false,
   "events": []
 }

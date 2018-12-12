@@ -1,0 +1,54 @@
+[
+  {
+    "id": "fdca4335-5860-4168-9298-3b8bb48d2b36",
+    "data": [
+      {
+        "text": "ылвотлывьмтывм",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544629794
+  },
+  {
+    "id": "0e1d4595-6a92-47c2-a99a-cac9978d38dc",
+    "data": [
+      {
+        "text": "съехать от родителей",
+        "alias": "firstApartment",
+        "meta": "@firstApartment",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544629794
+  },
+  {
+    "id": "7178aa73-c09b-4d4e-9abd-44f535b30557",
+    "data": [
+      {
+        "text": "хочу",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "съехать от родителей",
+        "alias": "firstApartment",
+        "meta": "@firstApartment",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544629794
+  }
+]

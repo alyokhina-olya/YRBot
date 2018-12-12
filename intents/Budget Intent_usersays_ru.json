@@ -1,15 +1,29 @@
 [
   {
-    "id": "8819351a-ee72-4566-8af5-d8fa38a4849c",
+    "id": "8a444027-e7f8-4847-a9ce-ddbfeed4fc0b",
     "data": [
       {
-        "text": "от ",
+        "text": "до ",
         "userDefined": false
       },
       {
-        "text": "100 рублей",
+        "text": "1000 рублей",
+        "alias": "maxCost",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542901303
+  },
+  {
+    "id": "1ecefa0f-5f52-4ada-a268-1bf49e1e3d6e",
+    "data": [
+      {
+        "text": "от 100 рублей",
         "alias": "minCost",
-        "meta": "@sys.unit-currency",
+        "meta": "@sys.number",
         "userDefined": true
       },
       {
@@ -19,16 +33,16 @@
       {
         "text": "1000 рублей",
         "alias": "maxCost",
-        "meta": "@sys.unit-currency",
+        "meta": "@sys.number",
         "userDefined": true
       }
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1541696112
+    "updated": 1542901303
   },
   {
-    "id": "28f1fe9d-cdf4-49ea-840d-63b7ed13bfa1",
+    "id": "e5563505-e04a-4492-8266-fdc5233ef3f4",
     "data": [
       {
         "text": "у меня есть ",
@@ -37,7 +51,7 @@
       {
         "text": "1000 рублей",
         "alias": "maxCost",
-        "meta": "@sys.unit-currency",
+        "meta": "@sys.number",
         "userDefined": true
       },
       {
@@ -47,16 +61,16 @@
       {
         "text": "10000 рублей",
         "alias": "credit",
-        "meta": "@sys.unit-currency",
+        "meta": "@sys.number",
         "userDefined": true
       }
     ],
     "isTemplate": false,
-    "count": 1,
-    "updated": 1541696112
+    "count": 0,
+    "updated": 1542901303
   },
   {
-    "id": "2cd0d37e-7aec-4a68-b5c4-0cbdcdb5fce6",
+    "id": "00c00a9d-6494-41e6-87be-c3f93dd1b5ba",
     "data": [
       {
         "text": "цена не имеет значения",
@@ -65,10 +79,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1541695953
+    "updated": 1541705517
   },
   {
-    "id": "508d4174-d9eb-499b-95b5-0a4439728071",
+    "id": "41c2177c-22ec-4189-bc6d-ddc86d0a0556",
     "data": [
       {
         "text": "стоимость не важна",
@@ -77,10 +91,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1541695953
+    "updated": 1541705517
   },
   {
-    "id": "0c127fb8-20ed-43dd-a251-6271de76329e",
+    "id": "58fc9f89-19e5-400e-8cde-ce694ffc248c",
     "data": [
       {
         "text": "у меня есть ",
@@ -89,12 +103,12 @@
       {
         "text": "1000 рублей",
         "alias": "maxCost",
-        "meta": "@sys.unit-currency",
+        "meta": "@sys.number",
         "userDefined": true
       }
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1541696112
+    "updated": 1542901303
   }
 ]

@@ -1,17 +1,15 @@
 {
   "description": "",
-  "language": "en",
+  "language": "ru",
   "disableInteractionLogs": false,
   "disableStackdriverLogs": true,
   "googleAssistant": {
     "googleAssistantCompatible": true,
-    "project": "yrealtor-d5790",
+    "project": "yrbot-3efc8",
     "welcomeIntentSignInRequired": false,
     "startIntents": [],
     "systemIntents": [],
-    "endIntentIds": [
-      "9195b451-4f8a-41c4-8bc3-048374c0014c"
-    ],
+    "endIntentIds": [],
     "oAuthLinking": {
       "required": false,
       "grantType": "AUTH_CODE_GRANT"
@@ -19,15 +17,11 @@
     "voiceType": "MALE_1",
     "capabilities": [],
     "protocolVersion": "V2",
-    "autoPreviewEnabled": true,
     "isDeviceAgent": false
   },
   "defaultTimezone": "Europe/Moscow",
   "webhook": {
-    "url": "https://us-central1-yrealtor-d5790.cloudfunctions.net/dialogflowFirebaseFulfillment",
-    "headers": {
-      "": ""
-    },
+    "url": "https://us-central1-yrbot-3efc8.cloudfunctions.net/dialogflowFirebaseFulfillment",
     "available": true,
     "useForDomains": false,
     "cloudFunctionsEnabled": true,
@@ -36,9 +30,7 @@
   "isPrivate": true,
   "customClassifierMode": "use.after",
   "mlMinConfidence": 0.3,
-  "supportedLanguages": [
-    "ru"
-  ],
+  "supportedLanguages": [],
   "onePlatformApiVersion": "v2",
   "analyzeQueryTextSentiment": false,
   "enabledKnowledgeBaseNames": [],

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "0b51ac5b-10e4-43cc-ab50-0bbc79c97f72",
+    "data": [
+      {
+        "text": "askdjfbalksdjgbasdg",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544628934
+  },
+  {
+    "id": "c2ed3621-6bc9-4fbd-ab7d-d1064f63a306",
+    "data": [
+      {
+        "text": "квартира",
+        "alias": "typeDeal",
+        "meta": "@BuyApartment",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543509905
+  },
+  {
+    "id": "4a54dfa5-75a0-4ae0-92dc-5a76e60837ef",
+    "data": [
+      {
+        "text": "покупка",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "квартиры",
+        "alias": "typeDeal",
+        "meta": "@BuyApartment",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543509905
+  },
+  {
+    "id": "47a2a737-f9c1-47c1-b740-ec1414585dd4",
+    "data": [
+      {
+        "text": "нужна",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "квартира",
+        "alias": "typeDeal",
+        "meta": "@BuyApartment",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543509905
+  },
+  {
+    "id": "aeab4ed7-b3e3-4598-bbaf-6f4f1b384c21",
+    "data": [
+      {
+        "text": "хочу купить",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "квартиру",
+        "alias": "typeDeal",
+        "meta": "@BuyApartment",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543509905
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "id": "24e37680-3b2b-4e4a-8367-9604558811a4",
+  "name": "Type Deal Intent",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Buy-Apartment-Intent",
+      "affectedContexts": [
+        {
+          "name": "TypeDealIntent",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "feb6c4c1-14de-4ccc-baee-ad374d024a28",
+          "required": false,
+          "dataType": "@BuyApartment",
+          "name": "typeDeal",
+          "value": "$typeDeal",
+          "isList": false
+        },
+        {
+          "id": "d1c0eb4c-7abd-41a4-9084-be612528614d",
+          "dataType": "@sys.any",
+          "name": "tmp",
+          "value": "$tmp"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Что сподвигло на покупку квартиры?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544628934,
+  "fallbackIntent": false,
+  "events": []
+}

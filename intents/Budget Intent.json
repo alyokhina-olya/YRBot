@@ -1,11 +1,9 @@
 {
-  "id": "69909531-8658-4cd1-bc25-35a34bd730e4",
-  "parentId": "a59efa0a-c799-49c4-98bb-534d7ccbd8e1",
-  "rootParentId": "ee94b60e-271d-4b85-9352-f238aa4f0c45",
+  "id": "fc6207d5-0e43-4d2f-a544-7573b9823773",
   "name": "Budget Intent",
   "auto": true,
   "contexts": [
-    "FirstPurchaseIntent-followup"
+    "ReasonForPurchaseIntent"
   ],
   "responses": [
     {
@@ -13,32 +11,37 @@
       "action": "Budget-Intent",
       "affectedContexts": [
         {
+          "name": "BudgetIntent",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
           "name": "BudgetIntent-followup",
           "parameters": {},
-          "lifespan": 100
+          "lifespan": 2
         }
       ],
       "parameters": [
         {
-          "id": "a39956be-76e0-49fd-98ea-d66eac854254",
+          "id": "7baa26fb-7e50-4e6a-a965-5599f4f5dd3b",
           "required": false,
-          "dataType": "@sys.unit-currency",
+          "dataType": "@sys.number",
           "name": "maxCost",
           "value": "$maxCost",
           "isList": false
         },
         {
-          "id": "1db4c464-f2c5-42b9-b49f-9c372699a339",
+          "id": "bac38924-d684-4707-8ebc-2dfb61272c1c",
           "required": false,
-          "dataType": "@sys.unit-currency",
+          "dataType": "@sys.number",
           "name": "credit",
           "value": "$credit",
           "isList": false
         },
         {
-          "id": "2e0e3ca1-e288-4824-8348-2ae494ec5c9b",
+          "id": "ec537588-6a5c-4835-a6c7-76d43f0685cb",
           "required": false,
-          "dataType": "@sys.unit-currency",
+          "dataType": "@sys.number",
           "name": "minCost",
           "value": "$minCost",
           "isList": false
@@ -47,13 +50,8 @@
       "messages": [
         {
           "type": 0,
-          "lang": "en",
-          "speech": "Укажите район или метро"
-        },
-        {
-          "type": 0,
           "lang": "ru",
-          "speech": []
+          "speech": "Укажите район или метро"
         }
       ],
       "defaultResponsePlatforms": {},
@@ -61,9 +59,9 @@
     }
   ],
   "priority": 500000,
-  "webhookUsed": false,
+  "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1541697232,
+  "lastUpdate": 1543320524,
   "fallbackIntent": false,
   "events": []
 }

@@ -1,5 +1,5 @@
 {
-  "id": "ee94b60e-271d-4b85-9352-f238aa4f0c45",
+  "id": "082226a2-535a-4a80-9e62-db48eb38aa78",
   "name": "Default Welcome Intent",
   "auto": true,
   "contexts": [],
@@ -8,6 +8,11 @@
       "resetContexts": false,
       "action": "input.welcome",
       "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent",
+          "parameters": {},
+          "lifespan": 1
+        },
         {
           "name": "DefaultWelcomeIntent-followup",
           "parameters": {},
@@ -18,10 +23,10 @@
       "messages": [
         {
           "type": 0,
-          "lang": "en",
+          "lang": "ru",
           "speech": [
-            "Привет! Опиши свою проблему",
-            "Привет! Чем могу помочь?"
+            "Привет! Чем могу помочь?",
+            "Привет! Опиши свою проблему"
           ]
         }
       ],
@@ -30,9 +35,9 @@
     }
   ],
   "priority": 500000,
-  "webhookUsed": false,
+  "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1541703283,
+  "lastUpdate": 1542906236,
   "fallbackIntent": false,
   "events": [
     {

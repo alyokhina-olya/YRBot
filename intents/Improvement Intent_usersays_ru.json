@@ -1,0 +1,828 @@
+[
+  {
+    "id": "0b1b45f4-2d66-4fad-9248-d1abf81dc3b5",
+    "data": [
+      {
+        "text": "только ",
+        "userDefined": false
+      },
+      {
+        "text": "не",
+        "alias": "negative",
+        "meta": "@negative",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "первый",
+        "alias": "unwantedFloor",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " этаж",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544628184
+  },
+  {
+    "id": "3d2220bf-7208-431c-b044-f372c5821eed",
+    "data": [
+      {
+        "text": "лифт",
+        "alias": "lift",
+        "meta": "@lift",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ываываыв",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544626034
+  },
+  {
+    "id": "ef35c057-b180-4610-8496-a9d3d691780c",
+    "data": [
+      {
+        "text": "фывафывафвыа",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "лифт",
+        "alias": "lift",
+        "meta": "@lift",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ksdfsdf",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544626034
+  },
+  {
+    "id": "176e41d4-50d8-41c5-aef6-f1abc81178da",
+    "data": [
+      {
+        "text": "необходим",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "лифт",
+        "alias": "lift",
+        "meta": "@lift",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544624285
+  },
+  {
+    "id": "38826ab1-61ad-4aa7-a970-0fd05ea2085c",
+    "data": [
+      {
+        "text": "лифт",
+        "alias": "lift",
+        "meta": "@lift",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543506561
+  },
+  {
+    "id": "f1976f10-5d44-401a-8d5f-5e861f8cea82",
+    "data": [
+      {
+        "text": "хочу",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "лифт",
+        "alias": "lift",
+        "meta": "@lift",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544623850
+  },
+  {
+    "id": "e4418846-8253-497c-890e-c973b1b1ffa4",
+    "data": [
+      {
+        "text": "слишком дорого",
+        "alias": "cheaper",
+        "meta": "@cheaper",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544625481
+  },
+  {
+    "id": "c79f8d51-1a1a-42ce-8e32-a07da6d4d446",
+    "data": [
+      {
+        "text": "хочу",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "дороже",
+        "alias": "expensive",
+        "meta": "@expensive",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544623850
+  },
+  {
+    "id": "4f174b10-d76c-4b42-81a4-3835e2a97b43",
+    "data": [
+      {
+        "text": "хочу",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "дешевле",
+        "alias": "cheaper",
+        "meta": "@cheaper",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544625481
+  },
+  {
+    "id": "a451bf1d-c1ae-422c-83df-e8291d7bd617",
+    "data": [
+      {
+        "text": "дороже",
+        "alias": "expensive",
+        "meta": "@expensive",
+        "userDefined": true
+      },
+      {
+        "text": " на ",
+        "userDefined": false
+      },
+      {
+        "text": "10000",
+        "alias": "increasedSize",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542904010
+  },
+  {
+    "id": "bb002c35-4fd3-47ed-9e51-bc45b834eb5d",
+    "data": [
+      {
+        "text": "фафывфывм",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "без",
+        "alias": "negative",
+        "meta": "@negative",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "unwantedFloor",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "этажа",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544628407
+  },
+  {
+    "id": "995e353e-a4b0-4c59-b558-218de3df06a8",
+    "data": [
+      {
+        "text": "дешевле",
+        "alias": "cheaper",
+        "meta": "@cheaper",
+        "userDefined": true
+      },
+      {
+        "text": " на ",
+        "userDefined": false
+      },
+      {
+        "text": "10000",
+        "alias": "decreasedSize",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544625481
+  },
+  {
+    "id": "f6ed40f5-1540-4858-adf6-8121a90c7943",
+    "data": [
+      {
+        "text": "edfasdasdf",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " не ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "unwantedFloor",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "цукпцукпйцупк",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "unwantedFloor",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "уцкпцукпуцкп",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "unwantedFloor",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " этаж",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544626722
+  },
+  {
+    "id": "4ffd1cd8-eaa8-4fc9-9334-e230086bfe91",
+    "data": [
+      {
+        "text": "фывфывафывафыва",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "не",
+        "alias": "negative",
+        "meta": "@negative",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "unwantedFloor",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "asdfasdfasdf",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " этаж",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544626722
+  },
+  {
+    "id": "9ee7351e-e0fe-408b-b4e0-6601509ea0fa",
+    "data": [
+      {
+        "text": "фывафывафыва",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "wantedFloor",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sdfsdfgsdfg",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "wantedFloor",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "adsfgasdfgasdg",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "wantedFloor",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " этаж",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544626722
+  },
+  {
+    "id": "2f727ee9-4e2b-42da-b79f-38c3ec0dcde9",
+    "data": [
+      {
+        "text": "sdfsdvsdvsdv",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "wantedFloor",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sdfsadsdg",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " этаж",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544626278
+  },
+  {
+    "id": "175b49a3-e2c8-4b3f-9d52-9af86863f503",
+    "data": [
+      {
+        "text": "ячфывыва",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " этаж ",
+        "userDefined": false
+      },
+      {
+        "text": "вымыврмыва",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "wantedFloor",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "фывафываыфва",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544626278
+  },
+  {
+    "id": "14a3cc27-249f-42b3-95c1-deb702ba6a8c",
+    "data": [
+      {
+        "text": "с консьержем",
+        "alias": "concierge",
+        "meta": "@concierge",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fdwefwerfwef",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544626034
+  },
+  {
+    "id": "11b6c878-2a31-42de-b3ad-ff4c7c26e76e",
+    "data": [
+      {
+        "text": "ываываыва",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "консьержем",
+        "alias": "concierge",
+        "meta": "@concierge",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sdfsdfsd",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544626034
+  },
+  {
+    "id": "2363d1d9-98bc-4e4c-91b7-ee718f42343d",
+    "data": [
+      {
+        "text": "дороже",
+        "alias": "expensive",
+        "meta": "@expensive",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542904010
+  },
+  {
+    "id": "dba06a49-6655-4d77-a112-fe1a9217a0f1",
+    "data": [
+      {
+        "text": "дешевле",
+        "alias": "cheaper",
+        "meta": "@cheaper",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544625481
+  },
+  {
+    "id": "23720943-81c7-439b-8a85-8e16fd9f32b1",
+    "data": [
+      {
+        "text": "с ",
+        "userDefined": false
+      },
+      {
+        "text": "консьержем",
+        "alias": "concierge",
+        "meta": "@concierge",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544624410
+  },
+  {
+    "id": "c2f88030-3ab2-4b25-bed3-39b538c8538f",
+    "data": [
+      {
+        "text": "у ",
+        "userDefined": false
+      },
+      {
+        "text": "парка",
+        "alias": "park",
+        "meta": "@park",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544625294
+  },
+  {
+    "id": "a3d6f3b8-876e-4aa2-b05f-863e465c443b",
+    "data": [
+      {
+        "text": "хочу",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "wantedFloor",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " этаж",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544623850
+  },
+  {
+    "id": "4376580b-cdcf-4924-9629-21fe33a2e435",
+    "data": [
+      {
+        "text": "хотелось бы с",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "лифтом",
+        "alias": "lift",
+        "meta": "@lift",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544623850
+  },
+  {
+    "id": "f6e0c87d-65d3-4c94-8067-e08c2096a739",
+    "data": [
+      {
+        "text": "добавь",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "лифт",
+        "alias": "lift",
+        "meta": "@lift",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544623850
+  },
+  {
+    "id": "d05320c7-02dc-48f9-a422-648056787866",
+    "data": [
+      {
+        "text": "нужен лифт",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544623850
+  },
+  {
+    "id": "b2ecec4c-e033-4b55-bc08-64f29e4f371e",
+    "data": [
+      {
+        "text": "с ",
+        "userDefined": false
+      },
+      {
+        "text": "лифтом",
+        "alias": "lift",
+        "meta": "@lift",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542907948
+  },
+  {
+    "id": "b93a2754-1218-45c8-88f5-af7be8e685a9",
+    "data": [
+      {
+        "text": "Хочу с",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "лифтом",
+        "alias": "lift",
+        "meta": "@lift",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544623850
+  }
+]

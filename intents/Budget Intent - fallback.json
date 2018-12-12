@@ -1,0 +1,40 @@
+{
+  "id": "e3d5715c-8df2-47bc-9a69-038369052a58",
+  "parentId": "fc6207d5-0e43-4d2f-a544-7573b9823773",
+  "rootParentId": "fc6207d5-0e43-4d2f-a544-7573b9823773",
+  "name": "Budget Intent - fallback",
+  "auto": false,
+  "contexts": [
+    "BudgetIntent",
+    "BudgetIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "BudgetIntent.BudgetIntent-fallback",
+      "affectedContexts": [
+        {
+          "name": "BudgetIntent",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544627375,
+  "fallbackIntent": true,
+  "events": []
+}

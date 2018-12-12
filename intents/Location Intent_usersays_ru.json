@@ -1,0 +1,826 @@
+[
+  {
+    "id": "886f5e37-8890-44a8-9475-cae8e7260564",
+    "data": [
+      {
+        "text": "выборгская",
+        "alias": "metro",
+        "meta": "@metro",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "или",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "академическая",
+        "alias": "metro",
+        "meta": "@metro",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "или",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "петроградская",
+        "alias": "metro",
+        "meta": "@metro",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "станции метро а еще можно",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "лесную",
+        "alias": "metro",
+        "meta": "@metro",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "или",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "курортный",
+        "alias": "district",
+        "meta": "@district",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "район",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544627494
+  },
+  {
+    "id": "3c7016e6-e588-45d8-a4dd-3b98ceaa8492",
+    "data": [
+      {
+        "text": "выборгская",
+        "alias": "metro",
+        "meta": "@metro",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "или",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "академическая",
+        "alias": "metro",
+        "meta": "@metro",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "или",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "петроградская",
+        "alias": "metro",
+        "meta": "@metro",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "станции метро а еще можно",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "лесную",
+        "alias": "metro",
+        "meta": "@metro",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544627283
+  },
+  {
+    "id": "2433782b-41c9-40f8-9e61-d122cfa985dd",
+    "data": [
+      {
+        "text": "выборгская",
+        "alias": "metro",
+        "meta": "@metro",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "или",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "академическая",
+        "alias": "metro",
+        "meta": "@metro",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "можно даже",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "петроградская",
+        "alias": "metro",
+        "meta": "@metro",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "станции метро",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544627283
+  },
+  {
+    "id": "3816be86-e2ce-4b13-8f0b-b6bdee2b6809",
+    "data": [
+      {
+        "text": "выборгская",
+        "alias": "metro",
+        "meta": "@metro",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "или",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "академическая",
+        "alias": "metro",
+        "meta": "@metro",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "или",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "петроградская",
+        "alias": "metro",
+        "meta": "@metro",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "станции метро",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544627009
+  },
+  {
+    "id": "328c3773-6b70-4695-ac99-38bd5c7844f5",
+    "data": [
+      {
+        "text": "выборгская",
+        "alias": "metro",
+        "meta": "@metro",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "академическая",
+        "alias": "metro",
+        "meta": "@metro",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "или",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "петроградская",
+        "alias": "metro",
+        "meta": "@metro",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "станции метро",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544627009
+  },
+  {
+    "id": "e0c08907-c735-4fba-8e24-d9140fe01087",
+    "data": [
+      {
+        "text": "цукпцукпцукп",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "выборгская",
+        "alias": "metro",
+        "meta": "@metro",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fefgewrgwerg",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "академическая",
+        "alias": "metro",
+        "meta": "@metro",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "или",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "петроградская",
+        "alias": "metro",
+        "meta": "@metro",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "станции метро",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544627009
+  },
+  {
+    "id": "6f0a53b1-8ef2-4b2d-b837-553a8dd6b49e",
+    "data": [
+      {
+        "text": "лесная",
+        "alias": "metro",
+        "meta": "@metro",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ылвиалываи",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544624167
+  },
+  {
+    "id": "329079ec-c680-409a-8dbf-6955d59b75ae",
+    "data": [
+      {
+        "text": "фылвоалфоыва",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "лесная",
+        "alias": "metro",
+        "meta": "@metro",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "флыоивафы",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544624167
+  },
+  {
+    "id": "04f704fa-6a06-49d8-94ca-2106f969dc14",
+    "data": [
+      {
+        "text": "фоавдлфыовиаы",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "лесная",
+        "alias": "metro",
+        "meta": "@metro",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544624167
+  },
+  {
+    "id": "13adc9a3-4278-47f4-9364-4da2a517e6e5",
+    "data": [
+      {
+        "text": "выборгский",
+        "alias": "district",
+        "meta": "@district",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "флоывитдлфоывидлфоыв",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544624167
+  },
+  {
+    "id": "2a11daf3-d52f-40fa-8633-2f7d78ae817a",
+    "data": [
+      {
+        "text": "фываидфыоваифыва в",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "выборгском",
+        "alias": "district",
+        "meta": "@district",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544624167
+  },
+  {
+    "id": "079fc81f-aed6-458f-af32-a29c78255691",
+    "data": [
+      {
+        "text": "желательно в",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "московском",
+        "alias": "district",
+        "meta": "@district",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "районе",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544623518
+  },
+  {
+    "id": "38170aea-d379-4045-9117-e4adab569e46",
+    "data": [
+      {
+        "text": "я бы предпочла жить в",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "московском",
+        "alias": "district",
+        "meta": "@district",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "районе",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544623518
+  },
+  {
+    "id": "f8a80cf2-4197-4027-a0f5-b77e16722ef6",
+    "data": [
+      {
+        "text": "в ",
+        "userDefined": false
+      },
+      {
+        "text": "московском",
+        "alias": "district",
+        "meta": "@district",
+        "userDefined": false
+      },
+      {
+        "text": " районе",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544623518
+  },
+  {
+    "id": "ee5342f3-f3af-4d84-85fe-4149c4855d8e",
+    "data": [
+      {
+        "text": "фрунзенский",
+        "alias": "district",
+        "meta": "@district",
+        "userDefined": true
+      },
+      {
+        "text": " район или ",
+        "userDefined": false
+      },
+      {
+        "text": "площадь ленина",
+        "alias": "metro",
+        "meta": "@metro",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544623518
+  },
+  {
+    "id": "5667d07f-0ee9-47e4-b17b-93be6f6ef4a9",
+    "data": [
+      {
+        "text": "академическая",
+        "alias": "metro",
+        "meta": "@metro",
+        "userDefined": true
+      },
+      {
+        "text": " или ",
+        "userDefined": false
+      },
+      {
+        "text": "площадь Ленина",
+        "alias": "metro",
+        "meta": "@metro",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544623518
+  },
+  {
+    "id": "29713fe9-24f8-42ce-88bb-96330e80295f",
+    "data": [
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "академическая",
+        "alias": "metro",
+        "meta": "@metro",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544623518
+  },
+  {
+    "id": "9842ed09-0248-4adc-8fb0-a97ba164150e",
+    "data": [
+      {
+        "text": "центральный",
+        "alias": "district",
+        "meta": "@district",
+        "userDefined": true
+      },
+      {
+        "text": " район",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544623518
+  },
+  {
+    "id": "6a568dcb-1fc5-4474-836c-40128c0e9550",
+    "data": [
+      {
+        "text": "желательно в",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "центральном",
+        "alias": "district",
+        "meta": "@district",
+        "userDefined": true
+      },
+      {
+        "text": " или ",
+        "userDefined": false
+      },
+      {
+        "text": "фрунзенском",
+        "alias": "district",
+        "meta": "@district",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544623518
+  },
+  {
+    "id": "31ef8018-a203-4071-a950-310ba6468881",
+    "data": [
+      {
+        "text": "цетральный",
+        "alias": "district",
+        "meta": "@district",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "фрунзенский",
+        "alias": "district",
+        "meta": "@district",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544622172
+  },
+  {
+    "id": "700c0b27-f14b-4949-bda0-7d552d0123a1",
+    "data": [
+      {
+        "text": "Центральный",
+        "alias": "district",
+        "meta": "@district",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544620946
+  },
+  {
+    "id": "83fabe98-89c8-4ae9-85a0-5a1c2cc11e41",
+    "data": [
+      {
+        "text": "Фрунзенский",
+        "alias": "district",
+        "meta": "@district",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544620946
+  }
+]

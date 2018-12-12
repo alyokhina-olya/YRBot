@@ -1,0 +1,46 @@
+{
+  "id": "ed553e53-f083-4d95-8d86-60d3684c9113",
+  "parentId": "13e1a74e-5d22-4ad4-a290-c21f163cd440",
+  "rootParentId": "13e1a74e-5d22-4ad4-a290-c21f163cd440",
+  "name": "Improvement Intent - fallback",
+  "auto": false,
+  "contexts": [
+    "LocationIntent",
+    "ImprovementIntent",
+    "ImprovementIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ImprovementIntent.ImprovementIntent-fallback",
+      "affectedContexts": [
+        {
+          "name": "LocationIntent",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "ImprovementIntent",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1543320608,
+  "fallbackIntent": true,
+  "events": []
+}

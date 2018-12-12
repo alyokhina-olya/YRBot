@@ -1,0 +1,37 @@
+{
+  "id": "52a528f6-5b82-4a9d-947c-d8162ef31367",
+  "name": "Reason For Purchase Intent - fallback",
+  "auto": false,
+  "contexts": [
+    "ReasonForPurchaseIntent"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ReasonForPurchaseIntent.ReasonForPurchaseIntent-fallback",
+      "affectedContexts": [
+        {
+          "name": "ReasonForPurchaseIntent",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "уточните стоимость"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544627569,
+  "fallbackIntent": true,
+  "events": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "ad448e76-5271-4e4b-bf3e-270e60ff0267",
+  "name": "Reason For Purchase Intent",
+  "auto": true,
+  "contexts": [
+    "TypeDealIntent"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "First-Purchase-Intent",
+      "affectedContexts": [
+        {
+          "name": "ReasonForPurchaseIntent",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "45af1045-3b69-4a26-acd9-dcb89b78cfae",
+          "dataType": "@sys.any",
+          "name": "tmp",
+          "value": "$tmp"
+        },
+        {
+          "id": "14957042-d062-4bb7-80b9-833f07d891fd",
+          "dataType": "@firstApartment",
+          "name": "firstApartment",
+          "value": "$firstApartment"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "На какой бюджет вы расчитываете?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544629794,
+  "fallbackIntent": false,
+  "events": []
+}
