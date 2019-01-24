@@ -1,5 +1,50 @@
 [
   {
+    "id": "378d268a-bfed-4eb7-a475-347293469094",
+    "data": [
+      {
+        "text": "мечтаю о ",
+        "userDefined": false
+      },
+      {
+        "text": "собственном жилье",
+        "alias": "firstApartment",
+        "meta": "@firstApartment",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547568569
+  },
+  {
+    "id": "63d17b90-54b8-4738-bee5-3770173af504",
+    "data": [
+      {
+        "text": "я ",
+        "userDefined": false
+      },
+      {
+        "text": "переехала в другой город",
+        "alias": "firstApartment",
+        "meta": "@firstApartment",
+        "userDefined": false
+      },
+      {
+        "text": " поэтому мне нужна ",
+        "userDefined": false
+      },
+      {
+        "text": "квартира",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547568569
+  },
+  {
     "id": "fdca4335-5860-4168-9298-3b8bb48d2b36",
     "data": [
       {

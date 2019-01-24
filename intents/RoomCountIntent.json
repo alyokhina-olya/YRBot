@@ -1,0 +1,85 @@
+{
+  "id": "7e9e78b7-69ae-42ca-b76f-acc0927fb540",
+  "name": "RoomCountIntent",
+  "auto": true,
+  "contexts": [
+    "BudgetIntent"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "RoomCountIntent",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "bd125f93-b9a0-4935-99dd-babc5bae720e",
+          "required": false,
+          "dataType": "@countRooms",
+          "name": "countRooms",
+          "value": "$countRooms",
+          "isList": true
+        },
+        {
+          "id": "250c58de-a0ba-414a-b46f-708276086431",
+          "required": false,
+          "dataType": "@countRooms",
+          "name": "minCountRooms",
+          "value": "$minCountRooms",
+          "isList": false
+        },
+        {
+          "id": "6c823c47-3c2a-44df-b663-6a30b186de53",
+          "required": false,
+          "dataType": "@expensive",
+          "name": "ge",
+          "value": "$ge",
+          "isList": false
+        },
+        {
+          "id": "dd25c1bd-2914-4679-9a35-4b59d8c8f86a",
+          "required": false,
+          "dataType": "@countRooms",
+          "name": "maxCountRooms",
+          "value": "$maxCountRooms",
+          "isList": false
+        },
+        {
+          "id": "16818b07-db5f-4229-bb44-7db6149792ae",
+          "required": false,
+          "dataType": "@cheaper",
+          "name": "le",
+          "value": "$le",
+          "isList": false
+        },
+        {
+          "id": "d1030d3b-b643-42e8-8df2-155ca297e67c",
+          "required": false,
+          "dataType": "@NotImportant",
+          "name": "NotImportant",
+          "value": "$NotImportant",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "А в каком районе рассматриваете?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548337611,
+  "fallbackIntent": false,
+  "events": []
+}

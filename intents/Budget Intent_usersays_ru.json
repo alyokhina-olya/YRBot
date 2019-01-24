@@ -1,13 +1,29 @@
 [
   {
-    "id": "8a444027-e7f8-4847-a9ce-ddbfeed4fc0b",
+    "id": "b9d99003-f077-421f-9cb1-265e286879a1",
     "data": [
       {
-        "text": "до ",
+        "text": "хмммм нуууу наверное",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
         "userDefined": false
       },
       {
-        "text": "1000 рублей",
+        "text": "до",
+        "alias": "prepositionForMax",
+        "meta": "@max",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "5 миллионов",
         "alias": "maxCost",
         "meta": "@sys.number",
         "userDefined": true
@@ -15,7 +31,549 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1542901303
+    "updated": 1547674886
+  },
+  {
+    "id": "402cd7ff-0b2c-4059-9a9f-bc91261eb7aa",
+    "data": [
+      {
+        "text": "без",
+        "alias": "no",
+        "meta": "@negative",
+        "userDefined": false
+      },
+      {
+        "text": " понятия",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545308654
+  },
+  {
+    "id": "bf170cb3-e733-454f-96a7-62e44a78ab6a",
+    "data": [
+      {
+        "text": "от",
+        "alias": "prepositionForMin",
+        "meta": "@min",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "100",
+        "alias": "minCost",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "рублей",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "до",
+        "alias": "prepositionForMax",
+        "meta": "@max",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "10000",
+        "alias": "maxCost",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "рублей",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545308254
+  },
+  {
+    "id": "154ce7c2-dfe6-4362-91b1-ba70064b903f",
+    "data": [
+      {
+        "text": "от",
+        "alias": "prepositionForMin",
+        "meta": "@min",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "100",
+        "alias": "minCost",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "до",
+        "alias": "prepositionForMax",
+        "meta": "@max",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "10000",
+        "alias": "maxCost",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545308254
+  },
+  {
+    "id": "376acec4-2781-4666-90e6-77ed1bc4f45c",
+    "data": [
+      {
+        "text": "ну наверное",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "от",
+        "alias": "prepositionForMun",
+        "meta": "@min",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1000",
+        "alias": "minCost",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "рублей",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "до",
+        "alias": "prepositionForMax",
+        "meta": "@max",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "возможно",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "300000",
+        "alias": "maxCost",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "рублей",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545308254
+  },
+  {
+    "id": "c9658d37-3ed7-43e1-8fcd-58e94d457f95",
+    "data": [
+      {
+        "text": "от",
+        "alias": "prepositionForMun",
+        "meta": "@min",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "100",
+        "alias": "minCost",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "рублей",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545308254
+  },
+  {
+    "id": "7c4de7a6-50b4-4134-8b99-f49288a6bebd",
+    "data": [
+      {
+        "text": "ну наверное",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "от",
+        "alias": "prepositionForMin",
+        "meta": "@min",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1000",
+        "alias": "minCost",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "до",
+        "alias": "prepositionForMax",
+        "meta": "@max",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "возможно",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "300000",
+        "alias": "maxCost",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545308254
+  },
+  {
+    "id": "af20b533-dd8c-44ac-ab95-95cf4ead666a",
+    "data": [
+      {
+        "text": "от",
+        "alias": "prepositionForMun",
+        "meta": "@min",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "100000",
+        "alias": "minCost",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545308254
+  },
+  {
+    "id": "1623e44f-a4af-4b6e-ac3b-cf4a20f2a855",
+    "data": [
+      {
+        "text": "не",
+        "alias": "no",
+        "meta": "@negative",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "важна",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "стоимость",
+        "alias": "costName",
+        "meta": "@cost",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545308499
+  },
+  {
+    "id": "5f23edc6-f7a4-414f-92f9-eec3a225f97f",
+    "data": [
+      {
+        "text": "до",
+        "alias": "prepositionForMax",
+        "meta": "@max",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "хммммм наверное",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1000",
+        "alias": "maxCost",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "рублей",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544651795
+  },
+  {
+    "id": "369d19ce-d757-4863-a0a9-e7c33ab53abc",
+    "data": [
+      {
+        "text": "ну",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "до",
+        "alias": "prepositionForMax",
+        "meta": "@max",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2000000",
+        "alias": "maxCost",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "наверное",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544632771
+  },
+  {
+    "id": "e1154a52-1964-4afb-9bfe-0b0fe0ea0f80",
+    "data": [
+      {
+        "text": "ну",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "кредит",
+        "alias": "creditName",
+        "meta": "@credit",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "наверное",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1000",
+        "alias": "credit",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "смогу",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544632487
+  },
+  {
+    "id": "8a444027-e7f8-4847-a9ce-ddbfeed4fc0b",
+    "data": [
+      {
+        "text": "до",
+        "alias": "prepositionForMax",
+        "meta": "@max",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1000",
+        "alias": "maxCost",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "рублей",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544651467
   },
   {
     "id": "1ecefa0f-5f52-4ada-a268-1bf49e1e3d6e",
@@ -27,7 +585,17 @@
         "userDefined": true
       },
       {
-        "text": " до ",
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "до",
+        "alias": "prepositionForMax",
+        "meta": "@max",
+        "userDefined": true
+      },
+      {
+        "text": " ",
         "userDefined": false
       },
       {
@@ -45,7 +613,13 @@
     "id": "e5563505-e04a-4492-8266-fdc5233ef3f4",
     "data": [
       {
-        "text": "у меня есть ",
+        "text": "у меня есть",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
         "userDefined": false
       },
       {
@@ -55,7 +629,37 @@
         "userDefined": true
       },
       {
-        "text": " и еще могу взять кредит на ",
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "и еще могу взять",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "кредит",
+        "alias": "creditName",
+        "meta": "@credit",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "на",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
         "userDefined": false
       },
       {
@@ -67,37 +671,91 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1542901303
+    "updated": 1544632346
   },
   {
     "id": "00c00a9d-6494-41e6-87be-c3f93dd1b5ba",
     "data": [
       {
-        "text": "цена не имеет значения",
+        "text": "цена",
+        "alias": "costName",
+        "meta": "@cost",
+        "userDefined": true
+      },
+      {
+        "text": " ",
         "userDefined": false
+      },
+      {
+        "text": "не",
+        "alias": "no",
+        "meta": "@negative",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "имеет значения",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
       }
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1541705517
+    "updated": 1545308499
   },
   {
     "id": "41c2177c-22ec-4189-bc6d-ddc86d0a0556",
     "data": [
       {
-        "text": "стоимость не важна",
+        "text": " ",
         "userDefined": false
+      },
+      {
+        "text": "важна",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "не",
+        "alias": "no",
+        "meta": "@negative",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "стоимость",
+        "alias": "costName",
+        "meta": "@cost",
+        "userDefined": true
       }
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1541705517
+    "updated": 1545308499
   },
   {
     "id": "58fc9f89-19e5-400e-8cde-ce694ffc248c",
     "data": [
       {
-        "text": "у меня есть ",
+        "text": "у меня есть",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
         "userDefined": false
       },
       {
@@ -109,6 +767,6 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1542901303
+    "updated": 1544632346
   }
 ]

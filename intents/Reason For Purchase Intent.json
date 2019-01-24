@@ -19,15 +19,19 @@
       "parameters": [
         {
           "id": "45af1045-3b69-4a26-acd9-dcb89b78cfae",
+          "required": false,
           "dataType": "@sys.any",
           "name": "tmp",
-          "value": "$tmp"
+          "value": "$tmp",
+          "isList": false
         },
         {
           "id": "14957042-d062-4bb7-80b9-833f07d891fd",
+          "required": false,
           "dataType": "@firstApartment",
           "name": "firstApartment",
-          "value": "$firstApartment"
+          "value": "$firstApartment",
+          "isList": false
         }
       ],
       "messages": [
@@ -44,7 +48,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1544629794,
+  "lastUpdate": 1547568569,
   "fallbackIntent": false,
   "events": []
 }

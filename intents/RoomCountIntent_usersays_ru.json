@@ -1,0 +1,494 @@
+[
+  {
+    "id": "f28f2a81-2682-4ea3-83ba-f31f21770a6c",
+    "data": [
+      {
+        "text": "заинтересуйте",
+        "alias": "NotImportant",
+        "meta": "@NotImportant",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548091667
+  },
+  {
+    "id": "d062ddf5-0bec-4e3b-bcac-092316083aa0",
+    "data": [
+      {
+        "text": "а может быть вы ",
+        "userDefined": false
+      },
+      {
+        "text": "можете что-то предложить",
+        "alias": "NotImportant",
+        "meta": "@NotImportant",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548091667
+  },
+  {
+    "id": "b97da1c6-350f-49e5-b0e1-75318df2745a",
+    "data": [
+      {
+        "text": "пофиг",
+        "alias": "NotImportant",
+        "meta": "@NotImportant",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548091667
+  },
+  {
+    "id": "27c1a689-2bd0-4398-bd4e-5b03a4d95876",
+    "data": [
+      {
+        "text": "все равно",
+        "alias": "NotImportant",
+        "meta": "@NotImportant",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548091667
+  },
+  {
+    "id": "309f2cd2-728c-43c8-9b09-2fbbed4d337a",
+    "data": [
+      {
+        "text": "это ",
+        "userDefined": false
+      },
+      {
+        "text": "не имеет значения",
+        "alias": "NotImportant",
+        "meta": "@NotImportant",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548091667
+  },
+  {
+    "id": "57c38341-e95a-4c7e-924e-eb6450673f8b",
+    "data": [
+      {
+        "text": "не важно",
+        "alias": "NotImportant",
+        "meta": "@NotImportant",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548091667
+  },
+  {
+    "id": "cbf87c1f-1f85-4abc-83e3-6fc1ee2ba48c",
+    "data": [
+      {
+        "text": "не больше",
+        "alias": "le",
+        "meta": "@cheaper",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "пяти",
+        "alias": "maxCountRooms",
+        "meta": "@countRooms",
+        "userDefined": true
+      },
+      {
+        "text": " комнат",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548091269
+  },
+  {
+    "id": "1f00703b-6b5d-4bb3-ad1b-22bb7bc04e2b",
+    "data": [
+      {
+        "text": "не больше",
+        "alias": "le",
+        "meta": "@cheaper",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "студии",
+        "alias": "maxCountRooms",
+        "meta": "@countRooms",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548091269
+  },
+  {
+    "id": "84ae07b8-2ed2-4609-bac5-89e547f5223e",
+    "data": [
+      {
+        "text": "не больше",
+        "alias": "le",
+        "meta": "@cheaper",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "двушки",
+        "alias": "maxCountRooms",
+        "meta": "@countRooms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548091269
+  },
+  {
+    "id": "5026343c-c424-43a8-a058-4c91333f9036",
+    "data": [
+      {
+        "text": "не больше",
+        "alias": "le",
+        "meta": "@cheaper",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "трехкомнатной",
+        "alias": "maxCountRooms",
+        "meta": "@countRooms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548091269
+  },
+  {
+    "id": "4deb2f72-e31f-4266-bb59-37f443e29a4a",
+    "data": [
+      {
+        "text": "не больше",
+        "alias": "le",
+        "meta": "@cheaper",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "четырехкомнатной",
+        "alias": "maxCountRooms",
+        "meta": "@countRooms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548091269
+  },
+  {
+    "id": "9e3effee-4cbf-4d85-bd8e-29779e9f09d4",
+    "data": [
+      {
+        "text": "четырехкомнатная",
+        "alias": "countRooms",
+        "meta": "@countRooms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548091269
+  },
+  {
+    "id": "69edf90e-0b45-49d9-b453-fe244eb3b775",
+    "data": [
+      {
+        "text": "не меньше",
+        "alias": "ge",
+        "meta": "@expensive",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "двух",
+        "alias": "minCountRooms",
+        "meta": "@countRooms",
+        "userDefined": true
+      },
+      {
+        "text": " комнат",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548089928
+  },
+  {
+    "id": "02714b91-79cd-48e0-9224-19c228749285",
+    "data": [
+      {
+        "text": "не больше",
+        "alias": "le",
+        "meta": "@cheaper",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "двух",
+        "alias": "maxCountRooms",
+        "meta": "@countRooms",
+        "userDefined": false
+      },
+      {
+        "text": " комнат",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548089928
+  },
+  {
+    "id": "146205ce-da85-4a00-bed9-86fe70dbfda2",
+    "data": [
+      {
+        "text": "трешка",
+        "alias": "countRooms",
+        "meta": "@countRooms",
+        "userDefined": true
+      },
+      {
+        "text": ", наверное",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548090651
+  },
+  {
+    "id": "802a4647-b596-4a55-a29b-b2140f170cc3",
+    "data": [
+      {
+        "text": "не больше",
+        "alias": "le",
+        "meta": "@cheaper",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "трешки",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548091269
+  },
+  {
+    "id": "ddf4cfaf-2cec-4d5c-9ea6-39e41f321be3",
+    "data": [
+      {
+        "text": "не меньше",
+        "alias": "ge",
+        "meta": "@expensive",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "двушки",
+        "alias": "minCountRooms",
+        "meta": "@countRooms",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548089653
+  },
+  {
+    "id": "03d513f3-e897-4eac-993d-d9e565429285",
+    "data": [
+      {
+        "text": "не меньше",
+        "alias": "ge",
+        "meta": "@expensive",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "студии",
+        "alias": "minCountRooms",
+        "meta": "@countRooms",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548089653
+  },
+  {
+    "id": "cd291bc8-59b3-4c05-851e-202ccdbc8a10",
+    "data": [
+      {
+        "text": "не меньше ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "minCountRooms",
+        "meta": "@countRooms",
+        "userDefined": true
+      },
+      {
+        "text": " комнаты",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548089653
+  },
+  {
+    "id": "60f3dc45-9f4f-4029-a569-f15c10128c27",
+    "data": [
+      {
+        "text": "можно, наверное ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "countRooms",
+        "meta": "@countRooms",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "комнаты",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548089113
+  },
+  {
+    "id": "2e2b8fc9-02ac-495d-8b7c-1b2f8727072c",
+    "data": [
+      {
+        "text": "скорее всего ",
+        "userDefined": false
+      },
+      {
+        "text": "двушка",
+        "alias": "countRooms",
+        "meta": "@countRooms",
+        "userDefined": true
+      },
+      {
+        "text": " или ",
+        "userDefined": false
+      },
+      {
+        "text": "трешка",
+        "alias": "countRooms",
+        "meta": "@countRooms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548089113
+  },
+  {
+    "id": "963eaee0-a8d7-4d73-8e1b-251907c9b4bc",
+    "data": [
+      {
+        "text": "наверное ",
+        "userDefined": false
+      },
+      {
+        "text": "студия",
+        "alias": "countRooms",
+        "meta": "@countRooms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548089113
+  },
+  {
+    "id": "f6ca4304-1d6a-46fe-8560-56357ffe8b20",
+    "data": [
+      {
+        "text": "хочу ",
+        "userDefined": false
+      },
+      {
+        "text": "двушку",
+        "alias": "countRooms",
+        "meta": "@countRooms",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548089113
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "id": "f23342b3-705a-4052-a0a3-cc35d817f6a3",
+  "name": "Ok",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "спасибо",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Рад помочь!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548091939,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -45,13 +45,69 @@
           "name": "minCost",
           "value": "$minCost",
           "isList": false
+        },
+        {
+          "id": "b6b14476-bd57-42f9-9b57-1557c6a72882",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "tmp",
+          "value": "$tmp",
+          "isList": true
+        },
+        {
+          "id": "e1763a0b-7591-4f7e-be46-c1919c51b236",
+          "required": false,
+          "dataType": "@credit",
+          "name": "creditName",
+          "value": "$creditName",
+          "isList": false
+        },
+        {
+          "id": "be6cf7e8-81a1-4bbc-b76a-e3a00cea16b0",
+          "required": false,
+          "dataType": "@max",
+          "name": "prepositionForMax",
+          "value": "$prepositionForMax",
+          "isList": false
+        },
+        {
+          "id": "f23329c2-0023-4686-abd3-3e3651537481",
+          "required": false,
+          "dataType": "@cost",
+          "name": "costName",
+          "value": "$costName",
+          "isList": false
+        },
+        {
+          "id": "85dbebea-2cad-4aeb-a8c4-822b66ccd4f6",
+          "required": false,
+          "dataType": "@min",
+          "name": "prepositionForMun",
+          "value": "$prepositionForMun",
+          "isList": false
+        },
+        {
+          "id": "05b028cf-a539-4942-b497-94e467553fc7",
+          "required": false,
+          "dataType": "@min",
+          "name": "prepositionForMin",
+          "value": "$prepositionForMin",
+          "isList": false
+        },
+        {
+          "id": "a18a53b4-292a-4398-9e2e-25fe042aec3b",
+          "required": false,
+          "dataType": "@negative",
+          "name": "no",
+          "value": "$no",
+          "isList": false
         }
       ],
       "messages": [
         {
           "type": 0,
           "lang": "ru",
-          "speech": "Укажите район или метро"
+          "speech": "Хорошо, сколько комнат? Студия?"
         }
       ],
       "defaultResponsePlatforms": {},
@@ -61,7 +117,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1543320524,
+  "lastUpdate": 1548088557,
   "fallbackIntent": false,
   "events": []
 }

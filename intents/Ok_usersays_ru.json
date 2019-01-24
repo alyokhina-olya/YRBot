@@ -1,0 +1,98 @@
+[
+  {
+    "id": "65d71661-3af8-41d5-9c68-a447454d84e9",
+    "data": [
+      {
+        "text": "спасибо, подошла",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548091939
+  },
+  {
+    "id": "786590cc-e473-4948-8120-993ee49f2b23",
+    "data": [
+      {
+        "text": "класс спасибо подходит",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548090768
+  },
+  {
+    "id": "c9ae0ff1-3226-4fee-b24c-1f0155e79c6f",
+    "data": [
+      {
+        "text": "класс",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548090768
+  },
+  {
+    "id": "c39f179a-8736-4cfa-b0a5-773254d2147a",
+    "data": [
+      {
+        "text": "подходит",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547674586
+  },
+  {
+    "id": "5776f080-3248-48c7-a72c-fc84e884ee11",
+    "data": [
+      {
+        "text": "ура",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547674586
+  },
+  {
+    "id": "6f8973e0-6fbb-4875-a399-fb95224c1071",
+    "data": [
+      {
+        "text": "все, нашла",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547674586
+  },
+  {
+    "id": "e5380663-db5e-4ee6-a684-93b6cc8b8878",
+    "data": [
+      {
+        "text": "благодарю",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547674586
+  },
+  {
+    "id": "a9c566e6-1224-4ecd-a08d-25175b50c86a",
+    "data": [
+      {
+        "text": "спасибо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547674586
+  }
+]

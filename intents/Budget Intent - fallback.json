@@ -24,7 +24,7 @@
         {
           "type": 0,
           "lang": "ru",
-          "speech": []
+          "speech": "Не могли бы вы повторить еще раз?"
         }
       ],
       "defaultResponsePlatforms": {},
@@ -34,7 +34,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1544627375,
+  "lastUpdate": 1548091396,
   "fallbackIntent": true,
   "events": []
 }

@@ -3,7 +3,7 @@
   "name": "Location Intent",
   "auto": true,
   "contexts": [
-    "BudgetIntent"
+    "RoomCountIntent"
   ],
   "responses": [
     {
@@ -17,6 +17,11 @@
         },
         {
           "name": "LocationIntent-followup",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "RoomCountIntent",
           "parameters": {},
           "lifespan": 1
         }
@@ -45,6 +50,29 @@
           "name": "tmp",
           "value": "$tmp",
           "isList": true
+        },
+        {
+          "id": "564d7f88-654c-4315-bffd-2727f6bc8871",
+          "required": false,
+          "dataType": "@negative",
+          "name": "negative",
+          "value": "$negative",
+          "isList": false
+        },
+        {
+          "id": "900e2350-8ffb-4161-9667-5741d9b3889d",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "address",
+          "value": "$address",
+          "isList": false
+        },
+        {
+          "id": "38249018-d5df-4f1a-b138-a785752c9fb3",
+          "dataType": "@Near",
+          "name": "Near",
+          "value": "$Near",
+          "isList": false
         }
       ],
       "messages": [
@@ -61,7 +89,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1544627494,
+  "lastUpdate": 1548345764,
   "fallbackIntent": false,
   "events": []
 }

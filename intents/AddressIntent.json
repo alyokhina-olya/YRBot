@@ -1,0 +1,36 @@
+{
+  "id": "3f7caf28-bcc6-41c8-b635-af4308f10548",
+  "name": "AddressIntent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e9b8bb1b-ca20-4a25-acd4-2f2adbeb4f46",
+          "dataType": "@sys.any",
+          "name": "text",
+          "value": "$text"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548102088,
+  "fallbackIntent": false,
+  "events": []
+}

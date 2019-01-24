@@ -12,11 +12,6 @@
           "name": "DefaultWelcomeIntent",
           "parameters": {},
           "lifespan": 1
-        },
-        {
-          "name": "DefaultWelcomeIntent-followup",
-          "parameters": {},
-          "lifespan": 2
         }
       ],
       "parameters": [],
@@ -24,10 +19,7 @@
         {
           "type": 0,
           "lang": "ru",
-          "speech": [
-            "Привет! Чем могу помочь?",
-            "Привет! Опиши свою проблему"
-          ]
+          "speech": "Здравствуйте! что Вас интересует?"
         }
       ],
       "defaultResponsePlatforms": {},
@@ -37,7 +29,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1542906236,
+  "lastUpdate": 1548087359,
   "fallbackIntent": false,
   "events": [
     {

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "a864e7f9-ed23-4414-b7fa-36674aff49fa",
+    "data": [
+      {
+        "text": "скажи адрес ",
+        "userDefined": false
+      },
+      {
+        "text": "Спб, ВШЭ",
+        "alias": "text",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548102088
+  }
+]

@@ -1,5 +1,187 @@
 [
   {
+    "id": "c17b2f96-62ba-415e-9171-7062a2d2c623",
+    "data": [
+      {
+        "text": "около",
+        "alias": "Near",
+        "meta": "@Near",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ВШЭ СПБ",
+        "alias": "address",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548345764
+  },
+  {
+    "id": "c3e61a9f-8c20-4895-b113-36fc4767c27c",
+    "data": [
+      {
+        "text": "у",
+        "alias": "Near",
+        "meta": "@Near",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Тозеза 37",
+        "alias": "address",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548345764
+  },
+  {
+    "id": "9ae27741-25ef-441f-974d-758cf7d3434c",
+    "data": [
+      {
+        "text": "около",
+        "alias": "Near",
+        "meta": "@Near",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ул. Хлопина, д. 8, Санкт-Петербург",
+        "alias": "address",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548345764
+  },
+  {
+    "id": "f9cc8687-3203-47b0-9c01-01b61acc7ddd",
+    "data": [
+      {
+        "text": "рядом с",
+        "alias": "Near",
+        "meta": "@Near",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ВШЭ",
+        "alias": "address",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548345764
+  },
+  {
+    "id": "4f1fcd29-08d4-4be6-b033-bd86bbc7f15c",
+    "data": [
+      {
+        "text": "Кантемировская ул,д.2,Санкт-Петербург,Россия",
+        "alias": "address",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548345764
+  },
+  {
+    "id": "400488ec-e58b-44b0-9925-3cdf1228246c",
+    "data": [
+      {
+        "text": "Останкинская ул, д.22, Москва, Россия",
+        "alias": "address",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548345764
+  },
+  {
+    "id": "8546bf6e-265e-4a6c-a819-26058836873c",
+    "data": [
+      {
+        "text": "без",
+        "alias": "negative",
+        "meta": "@negative",
+        "userDefined": false
+      },
+      {
+        "text": " разницы",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547567305
+  },
+  {
+    "id": "2752b4e5-2643-4935-8356-bd616e323492",
+    "data": [
+      {
+        "text": "местоположение ",
+        "userDefined": false
+      },
+      {
+        "text": "не",
+        "alias": "negative",
+        "meta": "@negative",
+        "userDefined": false
+      },
+      {
+        "text": " важно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547567305
+  },
+  {
+    "id": "8ac8abe0-f0f0-48d4-91b0-b08745f8ee13",
+    "data": [
+      {
+        "text": "не",
+        "alias": "negative",
+        "meta": "@negative",
+        "userDefined": false
+      },
+      {
+        "text": " имеет значения",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1547567305
+  },
+  {
     "id": "886f5e37-8890-44a8-9475-cae8e7260564",
     "data": [
       {
@@ -794,6 +976,40 @@
     "isTemplate": false,
     "count": 0,
     "updated": 1544622172
+  },
+  {
+    "id": "c467cf2f-6335-44f6-b79a-c4f772c3e445",
+    "data": [
+      {
+        "text": "выборгская",
+        "alias": "metro",
+        "meta": "@metro",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "и",
+        "alias": "tmp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "лесная",
+        "alias": "metro",
+        "meta": "@metro",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545249290
   },
   {
     "id": "700c0b27-f14b-4949-bda0-7d552d0123a1",

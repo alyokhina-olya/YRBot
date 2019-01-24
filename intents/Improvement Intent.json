@@ -108,9 +108,11 @@
         },
         {
           "id": "cad862f2-93c9-41a8-82ea-063be9fb521c",
+          "required": false,
           "dataType": "@negative",
           "name": "negative",
-          "value": "$negative"
+          "value": "$negative",
+          "isList": true
         }
       ],
       "messages": [
@@ -127,7 +129,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1544628407,
+  "lastUpdate": 1547568136,
   "fallbackIntent": false,
   "events": []
 }
